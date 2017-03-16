@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guitar List</string>
+    <string name="favourites">Favourites</string>
+    <string name="exterminate">Exterminate</string>
+</resources>
